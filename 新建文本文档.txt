@@ -1,28 +1,29 @@
-https://zh.flightaware.com/live/ ÊµÊ±¸ú×Ù
+https://zh.flightaware.com/live/ å®æ—¶è·Ÿè¸ª
 
 AirQueryWeChat
 
 <div style="" data-bind="visible: totalHits() == 0">
                 <div class="row" data-bind="visible: totalHits() == 0" style="">
     <div class="col-sm-48 text-center text-danger">
-        <p>ºÜ±§Ç¸£¬ÎÒÃÇÔİÊ±Î´ÕÒµ½·ûºÏÌõ¼şµÄ¼ÇÂ¼£¬ÇëÉÔºóÖØÊÔ£¡</p>
+        <p>å¾ˆæŠ±æ­‰ï¼Œæˆ‘ä»¬æš‚æ—¶æœªæ‰¾åˆ°ç¬¦åˆæ¡ä»¶çš„è®°å½•ï¼Œè¯·ç¨åé‡è¯•ï¼</p>
     </div>
 </div>
 
             </div>
-Airline ²éÑ¯
+Airline æŸ¥è¯¢
 
-²éÑ¯Îª¿ÕµÄ»° ÌáÊ¾Î´²éÑ¯µ½Êı¾İ
+æŸ¥è¯¢ä¸ºç©ºçš„è¯ æç¤ºæœªæŸ¥è¯¢åˆ°æ•°æ®
 
-ÓĞÊı¾İµÄ»°ÔÚÏÂÃæÕ¹Ê¾ 
+æœ‰æ•°æ®çš„è¯åœ¨ä¸‹é¢å±•ç¤º 
 
-ĞèÒªÓĞ·ÖÒ³ ÉÏÃæ¿ÉÉèÖÃÕ¹Ê¾¼¸Ìõ ¹²ÓĞ¼¸Ìõ²éÑ¯½á¹û µ±Ç°ÔÚµÚ¼¸Ò³
+éœ€è¦æœ‰åˆ†é¡µ ä¸Šé¢å¯è®¾ç½®å±•ç¤ºå‡ æ¡ å…±æœ‰å‡ æ¡æŸ¥è¯¢ç»“æœ å½“å‰åœ¨ç¬¬å‡ é¡µ
 
 http://localhost:9527/CargoTracking/AirTrackingNew?companyid=0
 
 
-text:(!ieid()||ieid()==''?'':ieid()=='I'?'½ø¿Ú':ieid()=='E'?'³ö¿Ú':'ÖĞ×ª')
+text:(!ieid()||ieid()==''?'':ieid()=='I'?'è¿›å£':ieid()=='E'?'å‡ºå£':'ä¸­è½¬')
  
-I½ø¿Ú   E ³ö¿Ú ÆäËû ÖĞ×ª
+Iè¿›å£   E å‡ºå£ å…¶ä»– ä¸­è½¬
 
 http://39.105.182.78:1180
+PPT æ¨¡æ¿é“¾æ¥ https://www.chuangkit.com/design?d=35ae2354-0e6b-48ae-8b76-536bb17d8316
