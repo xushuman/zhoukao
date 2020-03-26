@@ -1,0 +1,38 @@
+
+1.界面不展示的码头：
+广州中外运东仓、漳州招商码头、江阴苏南国际、天津集装箱码头、天津太平洋国际码头、天津东方海陆、天津欧亚国际码头
+2.额外添加广州的码头：
+广州集装箱码头：https://www.gct.com.cn/   可以
+3.天津联盟国际：http://www.tact.com.cn/queryHaiguan.do   可以  777链接不一致
+4.大连：                                            777需要登陆才能到结果页
+DLCGJMT 大连国际码头   http://apollo.dpn.com.cn/
+DLCGWMT 大连港湾码头  http://apollo.dpn.com.cn/
+DLCJZXM 大连集装箱码头  http://apollo.dpn.com.cn/
+5.上海： 
+SHAPDMT  浦东（外一）  http://www.hb56.com/Main.aspx
+SHAZDMT  振东（外二）  http://www.hb56.com/Main.aspx
+SHAHDMT  沪东（外四） http://www.hb56.com/Main.aspx
+SHAMDMT 明东（外五） http://www.hb56.com/Main.aspx
+SHASDMT  盛东（洋一） http://www.hb56.com/Main.aspx
+SHAGDMT 冠东（洋三） http://www.hb56.com/Main.aspx
+SHAYDMT 宜东码头  http://www.hb56.com/Main.aspx
+SHALJMT  上海罗泾码头   http://www.hb56.com/Main.aspx
+6.宁波：
+NGBBEJS  北二集司（三期）  http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBGJMT  港吉（四期） http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBYDMT  远东码头（五期） http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBYZMT  甬舟码头  http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBBLGJ  北仑国际（二期） http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBDXMT  大榭招商  http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBMSDM  梅山岛国际  http://www.npedi.com/ediportal-web/ediweb/index.jsp
+NGBBLSM  北仑山码头  http://www.npedi.com/ediportal-web/ediweb/index.jsp
+
+7.添加空运跳转版：
+BW   https://cargo.caribbean-airlines.com/#/    有
+HM  http://www.cargoserv.com/tracking.asp?Carrier=HM&Pfx=061   有
+JJ    https://www.cargoupdate.com/tracktrace/   有
+
+CY   http://www.cargoserv.com/tracking.asp?Carrier=CY&Pfx=048   无
+IR     http://www.cargoserv.com/tracking.asp?Carrier=IR&Pfx=096  无
+
+8.添加 空运台账 订阅公司
