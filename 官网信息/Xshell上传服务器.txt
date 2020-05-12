@@ -1,0 +1,33 @@
+==============测试官网更新======
+
+vs中打包上传
+npm run bulid 打包 完成后进入文件目录G/Git/my56homeweb 
+同级目录新建
+YundangMemberCenter
+然后到 G/Git/my56homeweb/dist(里面是刚才打包的文件) 把里面的东西复制到YundangMemberCenter 然后进行压缩
+
+Xshell 打开然后连接
+Xshell 窗口 传输新建文件（点击之后打开 Xftp）
+右边操作 找到/root下 home
+
+左边 找到 G/Git/my56homeweb 刚才压缩的YundangMemberCenter 右键 传输
+然后 在Xshell 执行命令 
+
+解压  unzip -o YundangMemberCenter.zip 
+
+==============正式官网更新======
+vs中打包上传
+npm run bulid 打包 完成后进入文件目录G/Git/my56homeweb 
+同级目录新建
+YundangMemberCenter
+然后到 G/Git/my56homeweb/dist(里面是刚才打包的文件) 把里面的东西复制到YundangMemberCenter 然后进行压缩
+
+Xshell 打开然后连接
+Xshell 窗口 传输新建文件（点击之后打开 Xftp）
+右边操作 找到/root下 home
+
+左边 找到 G/Git/my56homeweb 刚才压缩的YundangMemberCenter 右键 传输
+
+之后不需解压
+
+

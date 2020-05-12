@@ -1,0 +1,120 @@
+/views/otherViews/AirDetailWeChat.vue  
+/views/otherViews/AirQueryWeChat.vue
+
+
+/views/otherViews/DetailWeChat.vue
+/views/otherViews/SeaQueryWeChat.vue
+
+/views/otherViews/OceanDetailWeChat.vue
+/views/otherViews/OceanQueryWeChat.vue
+
+
+
+
+/views/otherViews/AirTracking.vue
+/views/otherViews/AirTrackingNew.vue
+/views/otherViews/SeaTracking.vue
+/views/otherViews/SeaTrackingNew.vue
+
+src/views/otherViews/TerminalTracking.vue
+src/views/otherViews/PortLinkage.vue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="result"> 
+        <div style="width:930px;margin: 0 auto;">
+          <div style="width:100%;margin:0px auto;margin-top:20px;"  >
+            <span style="font-size:16px;">提单信息</span>
+            <hr>
+          </div>
+          <div >
+            <el-table :data="infoData" style="width: 100%;height:auto;" >
+              <el-table-column prop="blno" label="提单号" min-width="50" ></el-table-column>
+              <el-table-column prop="bkgno" label="订舱号" min-width="50" ></el-table-column>
+              <el-table-column prop="plr" label="收货地" min-width="50" ></el-table-column>
+              <el-table-column prop="pol" label="起运港" min-width="50"></el-table-column>
+              <el-table-column prop="dtp" label="目的港" min-width="50"></el-table-column>
+              <el-table-column prop="pld" label="交货地" min-width="50"></el-table-column>
+              <el-table-column prop="bkgvolumn" label="箱量" min-width="50"></el-table-column>
+              <el-table-column prop="terminalpld" label="目的港码头" min-width="50"></el-table-column>
+              <el-table-column prop="etapld" label="预抵时间" min-width="50"></el-table-column>
+           </el-table>
+          </div>
+          <div style="width:100%;margin:0px auto;margin-top:20px;"  >
+            <span style="font-size:16px;">航班信息</span>
+            <hr>
+          </div>
+          <div  >
+            <el-table :data="carriageList" style="width: 100%">
+              <el-table-column type="index" :index="indexMethod" width="50"></el-table-column>
+              <el-table-column prop="vslname" label="航名" min-width="50" ></el-table-column>
+              <el-table-column prop="voy" label="航次" min-width="50" ></el-table-column>
+              <el-table-column prop="pol" label="装货港" min-width="50" ></el-table-column>
+              <el-table-column prop="pod" label="卸货港" min-width="50" ></el-table-column>
+              <el-table-column prop="etd" label="预离时间" min-width="50" ></el-table-column>
+              <el-table-column prop="atd" label="实际离开" min-width="50" ></el-table-column>
+              <el-table-column prop="eta" label="预抵时间" min-width="50" ></el-table-column>
+              <el-table-column prop="ata" label="实际到达" min-width="50" ></el-table-column>
+            </el-table>
+          </div>
+          <div style="width:100%;margin:0px auto;margin-top:20px;">
+            <span style="font-size:16px;">箱子信息</span>
+            <hr>
+          </div>
+          <div >
+            <el-table :data="ctnrList" style="width: 100%">
+              <el-table-column type="expand" width='30'>
+                <div>
+                  箱号查询详情信息
+                </div>
+              </el-table-column>
+              <el-table-column label="箱号" prop="conno" min-width='50'></el-table-column>
+              <el-table-column label="铅封号" prop="sealno" min-width='50' width="70"></el-table-column>
+              <el-table-column label="箱型" prop="ctrno_type" min-width='50' width="60"></el-table-column>
+              <el-table-column label="件" prop="pkgs" min-width='50' width="50"></el-table-column>
+              <el-table-column label="重（KG）" prop="gwgt" min-width='50' width="80"></el-table-column>
+              <el-table-column label="当前动态" prop="currentstatus" min-width='50'></el-table-column>
+              <el-table-column label="动态时间" prop="currenttime" min-width='50'></el-table-column>
+              <el-table-column label="动态地点" prop="currentstation" min-width='50'></el-table-column>
+            </el-table>
+          </div>
+        </div>
+      </div> -->
+      <!-- 查询信息展示 -->

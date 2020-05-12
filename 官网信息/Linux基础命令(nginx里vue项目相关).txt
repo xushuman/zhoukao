@@ -1,0 +1,19 @@
+测试nginx：47.94.232.32(公) 用户名：root，密码：klwdhbGyssgmlR4;
+（使用Xshell打开测试服务器，在Xshell可以使用各种命令进行操作。在Xshell里打开Xftp，可对测试服务器的文件进行上传、下载、移动等文件操作）
+
+vue官网项目位置：cd /home
+
+找出nginx可执行文件的路径：  ps -ef | grep nginx 
+
+重启nginx：service nginx restart
+
+测试机nginx的配置文件位置：cd /etc/nginx/conf.d/
+查看测试机nginx的配置文件：cat default.conf
+
+解压缩并替换更新：  unzip -o YundangMemberCenter.zip    
+
+删除当前目录下的文件夹或文件： rm -rf YundangMemberCenter
+（删除操作需特别注意，定位到正确文件位置，最好使用专项删除，不要使用删除全部*）
+
+移动文件夹或文件并改名：mv YundangMemberCenter.zip YundangMemberCenterbk.zip
+（将/a目录移动到/b下，并重命名为c：mv /a /b/c）
