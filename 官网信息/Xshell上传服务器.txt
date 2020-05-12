@@ -1,33 +1,33 @@
-==============²âÊÔ¹ÙÍø¸üĞÂ======
+==============æµ‹è¯•å®˜ç½‘æ›´æ–°======
 
-vsÖĞ´ò°üÉÏ´«
-npm run bulid ´ò°ü Íê³Éºó½øÈëÎÄ¼şÄ¿Â¼G/Git/my56homeweb 
-Í¬¼¶Ä¿Â¼ĞÂ½¨
+vsä¸­æ‰“åŒ…ä¸Šä¼ 
+npm run bulid æ‰“åŒ… å®Œæˆåè¿›å…¥æ–‡ä»¶ç›®å½•G/Git/my56homeweb 
+åŒçº§ç›®å½•æ–°å»º
 YundangMemberCenter
-È»ºóµ½ G/Git/my56homeweb/dist(ÀïÃæÊÇ¸Õ²Å´ò°üµÄÎÄ¼ş) °ÑÀïÃæµÄ¶«Î÷¸´ÖÆµ½YundangMemberCenter È»ºó½øĞĞÑ¹Ëõ
+ç„¶ååˆ° G/Git/my56homeweb/dist(é‡Œé¢æ˜¯åˆšæ‰æ‰“åŒ…çš„æ–‡ä»¶) æŠŠé‡Œé¢çš„ä¸œè¥¿å¤åˆ¶åˆ°YundangMemberCenter ç„¶åè¿›è¡Œå‹ç¼©
 
-Xshell ´ò¿ªÈ»ºóÁ¬½Ó
-Xshell ´°¿Ú ´«ÊäĞÂ½¨ÎÄ¼ş£¨µã»÷Ö®ºó´ò¿ª Xftp£©
-ÓÒ±ß²Ù×÷ ÕÒµ½/rootÏÂ home
+Xshell æ‰“å¼€ç„¶åè¿æ¥
+Xshell çª—å£ ä¼ è¾“æ–°å»ºæ–‡ä»¶ï¼ˆç‚¹å‡»ä¹‹åæ‰“å¼€ Xftpï¼‰
+å³è¾¹æ“ä½œ æ‰¾åˆ°/rootä¸‹ home
 
-×ó±ß ÕÒµ½ G/Git/my56homeweb ¸Õ²ÅÑ¹ËõµÄYundangMemberCenter ÓÒ¼ü ´«Êä
-È»ºó ÔÚXshell Ö´ĞĞÃüÁî 
+å·¦è¾¹ æ‰¾åˆ° G/Git/my56homeweb åˆšæ‰å‹ç¼©çš„YundangMemberCenter å³é”® ä¼ è¾“
+ç„¶å åœ¨Xshell æ‰§è¡Œå‘½ä»¤ 
 
-½âÑ¹  unzip -o YundangMemberCenter.zip 
+è§£å‹  unzip -o YundangMemberCenter.zip 
 
-==============ÕıÊ½¹ÙÍø¸üĞÂ======
-vsÖĞ´ò°üÉÏ´«
-npm run bulid ´ò°ü Íê³Éºó½øÈëÎÄ¼şÄ¿Â¼G/Git/my56homeweb 
-Í¬¼¶Ä¿Â¼ĞÂ½¨
+==============æ­£å¼å®˜ç½‘æ›´æ–°======
+vsä¸­æ‰“åŒ…ä¸Šä¼ 
+npm run bulid æ‰“åŒ… å®Œæˆåè¿›å…¥æ–‡ä»¶ç›®å½•G/Git/my56homeweb 
+åŒçº§ç›®å½•æ–°å»º
 YundangMemberCenter
-È»ºóµ½ G/Git/my56homeweb/dist(ÀïÃæÊÇ¸Õ²Å´ò°üµÄÎÄ¼ş) °ÑÀïÃæµÄ¶«Î÷¸´ÖÆµ½YundangMemberCenter È»ºó½øĞĞÑ¹Ëõ
+ç„¶ååˆ° G/Git/my56homeweb/dist(é‡Œé¢æ˜¯åˆšæ‰æ‰“åŒ…çš„æ–‡ä»¶) æŠŠé‡Œé¢çš„ä¸œè¥¿å¤åˆ¶åˆ°YundangMemberCenter ç„¶åè¿›è¡Œå‹ç¼©
 
-Xshell ´ò¿ªÈ»ºóÁ¬½Ó
-Xshell ´°¿Ú ´«ÊäĞÂ½¨ÎÄ¼ş£¨µã»÷Ö®ºó´ò¿ª Xftp£©
-ÓÒ±ß²Ù×÷ ÕÒµ½/rootÏÂ home
+Xshell æ‰“å¼€ç„¶åè¿æ¥
+Xshell çª—å£ ä¼ è¾“æ–°å»ºæ–‡ä»¶ï¼ˆç‚¹å‡»ä¹‹åæ‰“å¼€ Xftpï¼‰
+å³è¾¹æ“ä½œ æ‰¾åˆ°/rootä¸‹ home
 
-×ó±ß ÕÒµ½ G/Git/my56homeweb ¸Õ²ÅÑ¹ËõµÄYundangMemberCenter ÓÒ¼ü ´«Êä
+å·¦è¾¹ æ‰¾åˆ° G/Git/my56homeweb åˆšæ‰å‹ç¼©çš„YundangMemberCenter å³é”® ä¼ è¾“
 
-Ö®ºó²»Ğè½âÑ¹
+ä¹‹åä¸å†éœ€è¦å›åˆ°Xshellå¯¹åº”çš„æ–‡ä»¶å¤¹ä¸‹å»è§£å‹
 
 
