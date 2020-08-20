@@ -1,6 +1,3 @@
 <add key="YDangUrl" value="http://172.16.16.66:94/" />  测试服务器
 <add key="YDangUrl" value="http://localhost:4166/" />  本地服务器
 
-
-
-()=='0' ? '海运跟踪': (subject()=='1'?'云对单': (subject()=='2'? '铁运跟踪':(subject()=='3'?'快递跟踪':'空运跟踪')))

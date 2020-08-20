@@ -1,3 +1,3 @@
-http://172.16.16.85/yundangnet/yundangms
+http://172.16.16.63/yundangnet/yundangms
 
 ´æ·ÅÎ»ÖÃ  f/Git/yundanghoutai
